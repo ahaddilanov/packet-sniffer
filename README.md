@@ -105,4 +105,4 @@ MIT — free to use, modify, and learn from.
 
 ---
 
-*Built as part of a personal cybersecurity portfolio project by me
+*Built as part of a personal cybersecurity portfolio project of mine
